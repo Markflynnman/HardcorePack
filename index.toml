@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "8ca935fa79b95eff63124ef89b7d81aebaa817e11b50cc39dafa8f2ed4c68019"
+hash = "5232ea9df270896e4744a59b7c0821cf909c032037448b54bec05f593cf99492"
 metafile = true
 
 [[files]]
