@@ -5,6 +5,11 @@ file = "gitignore"
 hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -20,11 +25,6 @@ hash = "2b4cfbd99c6edb4a05244c92d33bff12b91ae4813554d6d60398e5682b92efe6"
 metafile = true
 
 [[files]]
-file = "mods/better-f3.pw.toml"
-hash = "69c55cf9276309c74803fdeadfdba84e69ffbd8fb93736603fb8bf87c77ff0c0"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display.pw.toml"
 hash = "9d1b7461e30b45be9b85a401c211ba298012c2cd01950e55ff2daeca30ba4c3f"
 metafile = true
@@ -32,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "d65a4366f3f7798b6373eafe58f4f3e0de8d77d9aee88175ee19934c737659a5"
 metafile = true
 
 [[files]]
@@ -200,6 +205,11 @@ hash = "7af81a2ac8f5b217e081449dbabb71fa8ce469ac9b56990627ee177479221f7e"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+metafile = true
+
+[[files]]
 file = "mods/my-server-is-compatible.pw.toml"
 hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
 metafile = true
@@ -216,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "9bbbf6cbe5783ff0b91bebc991ea6ae917134cbfeb3e85d86e66658297539324"
+hash = "dae4dd79e8db2daea3ec318b456fc0e30f529b9acca0a444b4ce7d1debfca143"
 metafile = true
 
 [[files]]
@@ -265,11 +275,6 @@ hash = "92c244ed82031bcf173fa861daa81c0765a5ad2a20228b1a3cec0759a615c6ac"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "955aeabc0885326aa2d8d7e9082d7ed319b90e6807ce00582eebc1f483caea6d"
-metafile = true
-
-[[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "298f9e7f4c075274da221028f4300f32dd784c080b8733cfd22d4672a7dc721f"
 metafile = true
@@ -295,8 +300,8 @@ hash = "a760266c095a463c262268c1c19acb8c836382641a4d96a70ecaa0024af7f4a0"
 metafile = true
 
 [[files]]
-file = "mods/waveycapes.pw.toml"
-hash = "ed6334d5bf5c46e40af5a35d8015a49d75053af108665d1ab6239ffb283fb458"
+file = "mods/wavey-capes.pw.toml"
+hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
 metafile = true
 
 [[files]]
