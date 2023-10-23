@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "gitignore"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
@@ -303,7 +299,3 @@ metafile = true
 file = "mods/wavey-capes.pw.toml"
 hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
 metafile = true
-
-[[files]]
-file = "packwizignore"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
