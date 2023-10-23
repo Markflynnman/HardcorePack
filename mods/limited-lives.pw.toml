@@ -1,0 +1,13 @@
+name = "Limited Lives (Forge)"
+filename = "LimitedLives-1.20.1-Forge-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be4dd0903aad2946252abd09ec8610d6ae5192eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4618830
+project-id = 233040

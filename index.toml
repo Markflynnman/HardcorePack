@@ -1,6 +1,258 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultsettings/Default/keys.txt"
+hash = "aad3df60441f47581a48b8ab28d1bef069c5f6d41bd2187269a3ea638c985b9d"
+
+[[files]]
+file = "config/defaultsettings/Default/options.txt"
+hash = "d8041969984c0ca02af4740ebe54a962b4eafdf1116b17c3a524c2fea32b83b9"
+
+[[files]]
+file = "config/defaultsettings/SeasonHUD-client.toml"
+hash = "df54e11fbbb19fba628b9ea3bf6cfa9d6f2a0aed3e05f35f624d4cc657bed87a"
+
+[[files]]
+file = "config/defaultsettings/guiscale.json"
+hash = "3082557b3976e2de25ccfdb3e11faa5805db0bda57f4c7f3b21f9676df3be850"
+
+[[files]]
+file = "config/defaultsettings/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/defaultsettings/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/defaultsettings/jade/jade.json"
+hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
+
+[[files]]
+file = "config/defaultsettings/jade/plugins.json"
+hash = "c5a5f5e0ad36015fd1ce1f7cd4961a6f8813685986c49ba9a274ab52a7b1f20c"
+
+[[files]]
+file = "config/defaultsettings/jade/sort-order.json"
+hash = "bbd9641b7bf3cdb0850d9a9251c13993bd9dfaeb380214bd70575c4e2b93b23e"
+
+[[files]]
+file = "config/defaultsettings/jei/jei-client.ini"
+hash = "7f2f5e2b3c8b4ca896abd18a58c67c6050d7ab40cc6216609ac918beaae5a42c"
+
+[[files]]
+file = "config/defaultsettings/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/defaultsettings/physicsmod/physics_blocks_client_config.json"
+hash = "4391858f5c777dec8e4f2effd4c165193c4a5e2b9bd3df870aa4fdf49557b80c"
+
+[[files]]
+file = "config/defaultsettings/physicsmod/physics_client_config.json"
+hash = "ae6267cf66743b3f8b59ecd403b066dd08f136e2089f06df190f4d0b3ff07507"
+
+[[files]]
+file = "config/defaultsettings/physicsmod/physics_cloth_config.json"
+hash = "91955763ff613b21fcb25717e47c7c8f217da1c7dd7a04e57af57633c8da2e0a"
+
+[[files]]
+file = "config/defaultsettings/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/defaultsettings/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
+file = "config/defaultsettings/physicsmod/physics_vines_client_config.json"
+hash = "f0f6e9f9c50d621ed27ff1fd33473ce55db6db7029663baefbe5edab0b13ade3"
+
+[[files]]
+file = "config/defaultsettings/snowrealmagic-client.yaml"
+hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
+
+[[files]]
+file = "config/limitedlives-common.toml"
+hash = "0c7e89c48da605878320acb0427af76e05f923e3dbf41ba8fd1241583963f168"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "a6f9943a4dfff25742be982541b116d8123b8ef436634f160d47b92449881af6"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
+
+[[files]]
+file = "config/serverconfigupdater-common.toml"
+hash = "7550be2e9f49f227113b89e8f41378aa7fc676186804de9a19be2329f99cbd46"
+
+[[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "0c1749bebddffb5f8c44ec3f311dd70d10c061ffc8f4b1c1448e26605c68d672"
+
+[[files]]
+file = "emotes/A s c e n d.emotecraft"
+hash = "b37da97034aa3cb5ed05fe69a54347cd2db5aa0c1f964409bc2d497076502dfa"
+
+[[files]]
+file = "emotes/Arm dance.emotecraft"
+hash = "b244e0b8d52af99550a9ed286f0c4ed16a3cb5052ed1ca7fc45a85c1f0f1a543"
+
+[[files]]
+file = "emotes/CPD bend.emotecraft"
+hash = "e381af4b6d658bee8ca796ee1b0b09a47259425aa932310d31648fc1c9a12b71"
+
+[[files]]
+file = "emotes/Casualonas (QSMP).emotecraft"
+hash = "85a06f4d1237245f144a851414b0075398eac655f593e7eb670eef5e8aacba89"
+
+[[files]]
+file = "emotes/Check the time (Left).emotecraft"
+hash = "bf62378b896c88ff94a6aab845d208213b4b56566296b903677c842b53f917d5"
+
+[[files]]
+file = "emotes/Check the time (Right).emotecraft"
+hash = "f3402f2ae76289d88c7995b3f2c6514450af5d781103b775a83409e452721a2a"
+
+[[files]]
+file = "emotes/Clap.emotecraft"
+hash = "7e8942d61269d8bbf972872dd12cec15d833ae98636404d645d17fda8e5c325b"
+
+[[files]]
+file = "emotes/Cry.emotecraft"
+hash = "c143c4d67b054c4dc0c7a420daccd677042595b5fe7eb4ce12ddd529b70b078b"
+
+[[files]]
+file = "emotes/Default Dance(loop).emotecraft"
+hash = "dcce87015d67113b2cd5b67bf425bfd90f7fd64d4bce8ac6b0711699d3c01aa1"
+
+[[files]]
+file = "emotes/Default Dance.emotecraft"
+hash = "6fcdbe2b96ddfde95ecc0b3999ed6673757b02952b1df8a90324c2f070d8e5d9"
+
+[[files]]
+file = "emotes/Double Cross Dab.emotecraft"
+hash = "88c1b1298fd29f9687da2151cb838f6e8653765626a8dc4d1d501c5c34f8fa69"
+
+[[files]]
+file = "emotes/Dragged down.emotecraft"
+hash = "326772d82879deabae6b0fa4eda8606898766eeef26ee8aec0799d9e05dcd74f"
+
+[[files]]
+file = "emotes/Dropkick.emotecraft"
+hash = "4744c7e31ca1769e9cace598e3fddd4da59b99d3c2f616cdbc271fba0e5b04de"
+
+[[files]]
+file = "emotes/Emerge.emotecraft"
+hash = "d7cc085f1531f6f56112ad0f1053e677cbe376ce2f24a4cc633740a3d1253433"
+
+[[files]]
+file = "emotes/Family Guy Death.emotecraft"
+hash = "b36d60ceea4397a4fe14c311eece5d489b8c1b8ef12d14e436a942a03a0fcc70"
+
+[[files]]
+file = "emotes/Floss.emotecraft"
+hash = "2e48df2af9c398822e3ad145dbae395ecf898455bbdace40e08bbec55f103ae4"
+
+[[files]]
+file = "emotes/Front flip.emotecraft"
+hash = "28e9f5654d305b4d5c5f350f7c57c4f487f6e7a56ce8b38b420e88ee65886f59"
+
+[[files]]
+file = "emotes/Get Griddy.emotecraft"
+hash = "a8ab90c4536a5fbcee374e6d50a340eedb7ee43e948801c507f22d63117398e4"
+
+[[files]]
+file = "emotes/GigaChad.emotecraft"
+hash = "606397e6f922cc6bb2b2e8b5fedd0c47dbac108ff4a6336efe07960c260b4816"
+
+[[files]]
+file = "emotes/Hands up.emotecraft"
+hash = "910a155b42f20262c0fb32dd09e1db1bb2c0991cc73e1e76e4281ec79ec76318"
+
+[[files]]
+file = "emotes/Hi.emotecraft"
+hash = "c0fc21c2c35c1bd9cb2dcb8eee4a747311dfe364f52ef008234d1e4391a6c134"
+
+[[files]]
+file = "emotes/Josuke Higashikata LOOP.emotecraft"
+hash = "049668ddb8ab747d5a366312af1d739553ceefe2afd559d0c76f30864cd48e69"
+
+[[files]]
+file = "emotes/Lay on back.emotecraft"
+hash = "0889868b236fe194f933fae72c3534fc3937ddcc508570b02a48ab954b32f262"
+
+[[files]]
+file = "emotes/Orange Justice.emotecraft"
+hash = "5e4377b8169f4897b87e9e5df130ab5afe4cebb37987582f9f0a708e856c9a34"
+
+[[files]]
+file = "emotes/Praise the sun.emotecraft"
+hash = "dc4d632938356b7a5ecf31e05ea3392c9bd660b7cee05eb982872c3ee1f7d5fc"
+
+[[files]]
+file = "emotes/Proxima Creature.emotecraft"
+hash = "083aa2db244da11c34bb5fdb362f9ab499839647b281a37056b4e1dad49f3614"
+
+[[files]]
+file = "emotes/Shrug.emotecraft"
+hash = "75bcc6b28093506cf3201237798a2b5e1facdcb875790a3efadf680df75b4c27"
+
+[[files]]
+file = "emotes/Sit.emotecraft"
+hash = "264ac557957621b78835714574762648c5f5e553011b8181cad382f9afc66505"
+
+[[files]]
+file = "emotes/T-Pose.emotecraft"
+hash = "f2e97666e0c3452b2b32cc2fffea7fa2a868899b323ccc6f60f49d817cc1c1b5"
+
+[[files]]
+file = "emotes/The Luddy.emotecraft"
+hash = "5b0ad6df6aee1f451cc60492fafd6d88932cbdd65435737a973b0921d2ab1fda"
+
+[[files]]
+file = "emotes/Villager.emotecraft"
+hash = "52af869023d64adb680100b3d6d762d0a245766ff49b00ff5b63b0f78ba20b67"
+
+[[files]]
+file = "emotes/blow kiss.emotecraft"
+hash = "9edd811a26112327b7d4bef979abe4a11852dd812730c55d6c4eccb7754d5e7c"
+
+[[files]]
+file = "emotes/club penguin dance.emotecraft"
+hash = "420e3d66c48aafb2ba781457ac33aa83a88a99da74f48afe94af9241062e3a47"
+
+[[files]]
+file = "emotes/cool sit.emotecraft"
+hash = "b7fc49d00052854631db398dd8a80e7d8669eded5394906cf264f1b7a407005d"
+
+[[files]]
+file = "emotes/curl ups.emotecraft"
+hash = "72a957f2b7e8384edd422056afcfad569537f9cbbece264431d51540b8c90114"
+
+[[files]]
+file = "emotes/into pieces.emotecraft"
+hash = "00fd594f9175762c71cfda3f9bac3bef15057d466760a4790c343eda0385dc2c"
+
+[[files]]
+file = "emotes/lean.emotecraft"
+hash = "7f350aea4553ad0ddbd4296c430a24a0e93361c8653a03bd7b2604d1fec052bf"
+
+[[files]]
+file = "emotes/lying on side.emotecraft"
+hash = "1505b2e5984883b4775c4be0695fb6b41eaa265e8f6c6d589d1904b18d5b97e4"
+
+[[files]]
+file = "emotes/naruto run.emotecraft"
+hash = "314d33634b97c7611928cf451cb9b4efe21da8e13b0e70e1df72ea28d3d14b5a"
+
+[[files]]
+file = "emotes/yoinky sploinky.emotecraft"
+hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
@@ -33,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "d65a4366f3f7798b6373eafe58f4f3e0de8d77d9aee88175ee19934c737659a5"
+metafile = true
+
+[[files]]
+file = "mods/catalogue.pw.toml"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
@@ -83,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "ee7e8aedd0febb425a837c78acf2a4b5b8729c0a854c3b6a2d57ed27f5cf5afe"
+metafile = true
+
+[[files]]
+file = "mods/defaultsettings.pw.toml"
+hash = "5a105e80bc36fc5b8560c9b27572202ec821eab8d27d5bd71d2e661abbd53542"
 metafile = true
 
 [[files]]
@@ -151,6 +413,11 @@ hash = "4d931064f471438d167e62c8915732fa266d5dc06a45717771d737688d084c6b"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-screens.pw.toml"
+hash = "59b3e2099b15b9df5b01a853931d7766648aec1d2b3a4acc6542f581c9eec0f6"
+metafile = true
+
+[[files]]
 file = "mods/fuelgoeshere.pw.toml"
 hash = "1f46cc8135d44d698a6f90877ce85355fedd79f19fd9461c331c9c23b17004fe"
 metafile = true
@@ -181,8 +448,23 @@ hash = "97e0fd23df99408c20ea1bdfc9df2fceb16f4e06cb4a2839a68ec2ed72588a7b"
 metafile = true
 
 [[files]]
+file = "mods/jcplugin.pw.toml"
+hash = "5c9deb013e842d42103c2b9d723a91e890648a400831a25a554f2d65d83b778f"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "b6a40e81919e62e25426109500552a2064ff7a9e0253f741045a99638c5bfbd4"
+metafile = true
+
+[[files]]
+file = "mods/limited-lives.pw.toml"
+hash = "8625bf5752a8a98ff7d1b4f8a6e816ad249100321848695a8c989bee80c20bbb"
 metafile = true
 
 [[files]]
@@ -231,6 +513,11 @@ hash = "a833cd3187adb57b3ea70262b82b17d65efe21655f9eeaefede57df74ddb0915"
 metafile = true
 
 [[files]]
+file = "mods/physics-mod-pro.pw.toml"
+hash = "f4358d1dcfb28bd2c4af292be9016ce9d4882ca290ea9baa465de969746b91da"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "5c795a323232e03487af4d771547aed1ec05becb5834cbdd84d7fdbc87224f96"
 metafile = true
@@ -261,6 +548,21 @@ hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
 
 [[files]]
+file = "mods/seasonhud.pw.toml"
+hash = "01a0f5afa4a66385862f7f246733e5f6d76b76e43c4321164634eeb6794689b7"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "84ba27cb7bd05174860dba55739d5252f74effd0d77e16383b6c46052fb1774b"
+metafile = true
+
+[[files]]
+file = "mods/serverconfig-updater.pw.toml"
+hash = "74d266052c0ad2203ed80d71680698e1ee973952929ae1267101282cab5b320e"
+metafile = true
+
+[[files]]
 file = "mods/showcase-item.pw.toml"
 hash = "f17ebbc2e710b6f29c8d8a47eacbc6860141219a68fbcab5a807a40660b3c5e3"
 metafile = true
@@ -281,6 +583,11 @@ hash = "a886aaeab4efa800e434e362d185b247e311629381cf95945f68bbc1de891b2b"
 metafile = true
 
 [[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "2e37cccb6374af23900719fb2b40e94c0c89b177d310f02468369eb565b1d3e2"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
@@ -298,4 +605,28 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "d0dfe633d857ff79445182ee37e7a7e6509a660d047d088b077fe71d063b1954"
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "b32427d80bba69d74dec8e9a44476ab543f564580879d8ca9c8e40543ccc0363"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe25dd4c082ac2195ec1f473f0390e2befa36a9a3743d27005701adf53f7aeea"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5b488fd021ad1d6195dfdb63ca361be0d7a0941d0ffc6b31f31c53eccd623554"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "96573f91dcd79b7583dcbf716c0aa9a84116e90ae67d24cb192a6275a48b23e2"
 metafile = true
