@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
+hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
-hash = "d35eca8b8e960629890d82c35cc628f634010271fb64e3b5b98ebde0cbe2461a"
+hash = "eef4f2f033c1c8961e7a61f37d3207a63244344f309c195f454a967db64568d5"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/guiscale.pw.toml"
-hash = "0da1f4da08ffa66ada9590aabc4bb22ded91f6e653977e10542088f62a980032"
+hash = "145f8d4d8f669f182be68ed0f34e04b3d31930dac2fd3ccd00aa534a96238a98"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-server-is-compatible.pw.toml"
-hash = "cf18dbe0e49d928bec3fdda338129b42a907ff9d07253dac4959d9dae1a4bd42"
+hash = "d0f90a3d3c7ff22aa3b3b98011932130e66973ce9abb00d75e090cd9ec5e4d0c"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "735a4682ce5f732ea64ec5e8d62c9befa234fb55322ce6a6a4dcefc5dbf5a129"
+hash = "a833cd3187adb57b3ea70262b82b17d65efe21655f9eeaefede57df74ddb0915"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "a760266c095a463c262268c1c19acb8c836382641a4d96a70ecaa0024af7f4a0"
+hash = "26952671afc8472adf64d5fcac8c19cb94e3a306d77d836ced448a6a08f97784"
 metafile = true
 
 [[files]]
