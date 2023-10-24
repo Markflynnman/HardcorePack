@@ -53,6 +53,58 @@ file = "config/defaultsettings/snowrealmagic-client.yaml"
 hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "6368c16ee775f70758106666d81c414d503248f4aa513c2bc00a16111a6dd106"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "cef0b6b4ed124cb2e5f0f19de2bd86cc59e6f7426a58d6d74bbd3554727553d4"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/ru_ru.local"
+hash = "2120cd2e1de7d8ec9ee8d18f24db70645e92042ba55ffbbc68403ecdc8a50fce"
+
+[[files]]
+file = "config/fancymenu/locals/uk_ua.local"
+hash = "c9a592ff8445f3d8d6a87a59df27e72a67b71afcf0fc03dad27a5ded2f94a780"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "bb12176b4cd1d0d822d0799f62bffa97b56fc5ff8ba72a37cf247ee200f76600"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "90992a124b12214112b20b52c2a780d03b932e3bb26da0151981a0832e6dc55c"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
 
@@ -384,6 +436,11 @@ hash = "eef4f2f033c1c8961e7a61f37d3207a63244344f309c195f454a967db64568d5"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "74600185fce2797003ed9b2816648231b3e892d72814e9586acdd314f8d93248"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 hash = "0ed3e0cccd8741b2fc78f2db619506f33bf2b5a7a9908f4355b2305b9a429d20"
 metafile = true
@@ -471,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "b6a40e81919e62e25426109500552a2064ff7a9e0253f741045a99638c5bfbd4"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "52b3b295d3b52be0d946ad9de4b9fdbbbb4c8d55ab2e5fbc067bde32d6f2bb80"
 metafile = true
 
 [[files]]
@@ -601,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
 metafile = true
 
 [[files]]
