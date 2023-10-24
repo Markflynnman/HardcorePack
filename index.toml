@@ -464,6 +464,11 @@ hash = "1a841a5a214d83d5d70e76cc8e8da158ec4677374d0b65250379d8ebd37be5f2"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "efdf791c527507722fb3b190e32bd53c454267e7ce783e7e618a63aab80d3b29"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "b6a40e81919e62e25426109500552a2064ff7a9e0253f741045a99638c5bfbd4"
 metafile = true
