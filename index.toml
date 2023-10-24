@@ -17,24 +17,8 @@ file = "config/defaultsettings/guiscale.json"
 hash = "3082557b3976e2de25ccfdb3e11faa5805db0bda57f4c7f3b21f9676df3be850"
 
 [[files]]
-file = "config/defaultsettings/jade/hide-blocks.json"
-hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
-
-[[files]]
-file = "config/defaultsettings/jade/hide-entities.json"
-hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
-
-[[files]]
 file = "config/defaultsettings/jade/jade.json"
 hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
-
-[[files]]
-file = "config/defaultsettings/jade/plugins.json"
-hash = "c5a5f5e0ad36015fd1ce1f7cd4961a6f8813685986c49ba9a274ab52a7b1f20c"
-
-[[files]]
-file = "config/defaultsettings/jade/sort-order.json"
-hash = "bbd9641b7bf3cdb0850d9a9251c13993bd9dfaeb380214bd70575c4e2b93b23e"
 
 [[files]]
 file = "config/defaultsettings/jei/jei-client.ini"
@@ -50,7 +34,7 @@ hash = "4391858f5c777dec8e4f2effd4c165193c4a5e2b9bd3df870aa4fdf49557b80c"
 
 [[files]]
 file = "config/defaultsettings/physicsmod/physics_client_config.json"
-hash = "ae6267cf66743b3f8b59ecd403b066dd08f136e2089f06df190f4d0b3ff07507"
+hash = "0e2816f8fc9acfd113daf5d2b4304398dddaa2a3590c488079387b1f74bb7621"
 
 [[files]]
 file = "config/defaultsettings/physicsmod/physics_cloth_config.json"
@@ -71,6 +55,22 @@ hash = "f0f6e9f9c50d621ed27ff1fd33473ce55db6db7029663baefbe5edab0b13ade3"
 [[files]]
 file = "config/defaultsettings/snowrealmagic-client.yaml"
 hash = "34909564dc66fb400f716437577c349965144e46febfb432a388aed3b0fe81e9"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "17e3b42d8de3781b306907fa2e636dda0014397785236353fe308d82bbef4c90"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "bbd9641b7bf3cdb0850d9a9251c13993bd9dfaeb380214bd70575c4e2b93b23e"
 
 [[files]]
 file = "config/limitedlives-common.toml"
