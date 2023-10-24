@@ -13,10 +13,6 @@ file = "config/defaultsettings/SeasonHUD-client.toml"
 hash = "df54e11fbbb19fba628b9ea3bf6cfa9d6f2a0aed3e05f35f624d4cc657bed87a"
 
 [[files]]
-file = "config/defaultsettings/guiscale.json"
-hash = "3082557b3976e2de25ccfdb3e11faa5805db0bda57f4c7f3b21f9676df3be850"
-
-[[files]]
 file = "config/defaultsettings/jade/jade.json"
 hash = "8951063f399e5ebeece66336e01daaceacfba10cf4823243635a34db2bff4066"
 
@@ -333,6 +329,11 @@ hash = "b9bec597080d4fa6b8671c37798fd7263510a1302f3b826c7c0e53c8469f5b38"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f2c5ed136e335a8b0df3bdb73da17d7f29e60c88fb978461db104c84f07d285a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "f66e41610f73bfea12ee32913af4c30a8387776694af47e9877cc08b18185943"
 metafile = true
@@ -428,11 +429,6 @@ hash = "1f46cc8135d44d698a6f90877ce85355fedd79f19fd9461c331c9c23b17004fe"
 metafile = true
 
 [[files]]
-file = "mods/guiscale.pw.toml"
-hash = "145f8d4d8f669f182be68ed0f34e04b3d31930dac2fd3ccd00aa534a96238a98"
-metafile = true
-
-[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "d2e18d88d7aad59d4a556f1039c7c239b3154b250b8ce0fc0b47a54150ab5dd3"
 metafile = true
@@ -460,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "1a841a5a214d83d5d70e76cc8e8da158ec4677374d0b65250379d8ebd37be5f2"
 metafile = true
 
 [[files]]
@@ -611,6 +612,10 @@ metafile = true
 file = "mods/wavey-capes.pw.toml"
 hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
 metafile = true
+
+[[files]]
+file = "scripts/EasyVillagers.zs"
+hash = "9677fa15d52cb10cb2cbe1d21919a073b8f8e1f850c85b2e48d9f699db2d89ec"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
