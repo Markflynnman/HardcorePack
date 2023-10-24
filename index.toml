@@ -50,7 +50,7 @@ hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
 
 [[files]]
 file = "config/defaultsettings/physicsmod/physics_vines_client_config.json"
-hash = "f0f6e9f9c50d621ed27ff1fd33473ce55db6db7029663baefbe5edab0b13ade3"
+hash = "e4c517d0c38e0247d0bf7cae2ed5eae81225d7b1d11e72a1652ad551a4f0ea4b"
 
 [[files]]
 file = "config/defaultsettings/snowrealmagic-client.yaml"
