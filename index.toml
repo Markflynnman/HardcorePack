@@ -614,6 +614,21 @@ hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vt-lowershield-zip.pw.toml"
+hash = "3ab3c39f562fd066be4eb64d4fb475d3a6b518af9812e1517c98aaa8f80db9c5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vt-smallerutilities-zip.pw.toml"
+hash = "e0ce6fce12b8f0328217ab9641fb8112b9caebfd98ffad228d02a6c47ac1adc9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vt-translucentpumpkin-zip.pw.toml"
+hash = "0372e087ea0c3564d804a8ea81062516514d9b92a05f0c0b8299e83c992f7cb2"
+metafile = true
+
+[[files]]
 file = "scripts/EasyVillagers.zs"
 hash = "9677fa15d52cb10cb2cbe1d21919a073b8f8e1f850c85b2e48d9f699db2d89ec"
 
