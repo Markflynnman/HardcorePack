@@ -105,6 +105,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "0530321e04b28a357313dd2326bbd4592f0966de2bd4e47dcdb6a476f82fbba5"
+
+[[files]]
 file = "config/jade/hide-blocks.json"
 hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
 
@@ -301,6 +305,10 @@ file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
+file = "global_packs/required_resources/Hardcore Hearts - v15.zip"
+hash = "bbddaf99d9c9e32d98636e3c82463a602a56eff9d7a71fc34530354c9eecca00"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
 metafile = true
@@ -437,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "74600185fce2797003ed9b2816648231b3e892d72814e9586acdd314f8d93248"
+hash = "e6b843f43160e0a4c790cdc100b8b5a2463e60fbb16f6ff387cde81c1fd8a984"
 metafile = true
 
 [[files]]
@@ -483,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/fuelgoeshere.pw.toml"
 hash = "1f46cc8135d44d698a6f90877ce85355fedd79f19fd9461c331c9c23b17004fe"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "607d86b479b9ca599f6afe2eecd6a67caa0cc73cacaab02d0df507945fe43b70"
 metafile = true
 
 [[files]]
@@ -667,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
