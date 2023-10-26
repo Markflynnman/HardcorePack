@@ -1,0 +1,13 @@
+name = "Hardcore Hearts"
+filename = "Hardcore Hearts - v15.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5AMcQaG0/versions/BRNH7R5E/Hardcore%20Hearts%20-%20v15.zip"
+hash-format = "sha1"
+hash = "794763c32dfe6c2f840ced8428723ba23971c614"
+
+[update]
+[update.modrinth]
+mod-id = "5AMcQaG0"
+version = "BRNH7R5E"

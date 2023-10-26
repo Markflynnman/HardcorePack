@@ -305,8 +305,9 @@ file = "emotes/yoinky sploinky.emotecraft"
 hash = "05933bc57359c9b7ace9a619eeb9dac1dac4eca54187e4145cc949a5ed03276f"
 
 [[files]]
-file = "global_packs/required_resources/Hardcore Hearts - v15.zip"
-hash = "bbddaf99d9c9e32d98636e3c82463a602a56eff9d7a71fc34530354c9eecca00"
+file = "global_packs/required_resources/hardcore-hearts.pw.toml"
+hash = "c973bc3e5643de0dfaa44dc708d6f09a116eb12ed6ae9c80e893601d968ed74e"
+metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
