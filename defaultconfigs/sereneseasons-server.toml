@@ -59,27 +59,27 @@
 	[[melting_settings.season_melt_chances]]
 		season = "MID_SPRING"
 		melt_percent = 16.66
-		rolls = 1
+		rolls = 2
 
 	[[melting_settings.season_melt_chances]]
 		season = "LATE_SPRING"
 		melt_percent = 25.0
-		rolls = 1
+		rolls = 2
 
 	[[melting_settings.season_melt_chances]]
 		season = "EARLY_SUMMER"
 		melt_percent = 50.0
-		rolls = 1
+		rolls = 3
 
 	[[melting_settings.season_melt_chances]]
 		season = "MID_SUMMER"
 		melt_percent = 50.0
-		rolls = 1
+		rolls = 4
 
 	[[melting_settings.season_melt_chances]]
 		season = "LATE_SUMMER"
 		melt_percent = 50.0
-		rolls = 1
+		rolls = 3
 
 	[[melting_settings.season_melt_chances]]
 		season = "EARLY_AUTUMN"

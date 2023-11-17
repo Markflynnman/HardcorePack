@@ -142,7 +142,11 @@ hash = "7550be2e9f49f227113b89e8f41378aa7fc676186804de9a19be2329f99cbd46"
 
 [[files]]
 file = "config/snowrealmagic-common.yaml"
-hash = "0c1749bebddffb5f8c44ec3f311dd70d10c061ffc8f4b1c1448e26605c68d672"
+hash = "e2a0b80708f6562114353a58a5a85865d57543f7236215e30d127a5e00e7e3d6"
+
+[[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "48ab24c54466ee53e53e50d03725ffb37a09667762e87ced066b701cf047b0a3"
 
 [[files]]
 file = "emotes/A s c e n d.emotecraft"
